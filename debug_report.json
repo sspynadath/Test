@@ -27,9 +27,9 @@
   "sitemap": {
     "maps_checked": [
       "https://www.seismic.com/sitemap.xml",
+      "https://www.seismic.com/wp-sitemap.xml",
       "https://www.seismic.com/sitemap-index.xml",
-      "https://www.seismic.com/sitemap_index.xml",
-      "https://www.seismic.com/wp-sitemap.xml"
+      "https://www.seismic.com/sitemap_index.xml"
     ],
     "all_urls_count": 0,
     "article_like_count": 0,
@@ -48,7 +48,7 @@
     "browser_started": true,
     "engine": "Playwright Chromium",
     "error": "",
-    "html_bytes": 915779,
+    "html_bytes": 914457,
     "visible_text_bytes": 3890,
     "same_domain_content_links": [
       {
@@ -171,13 +171,13 @@
           "https://www.seismic.com/news",
           "https://www.seismic.com/newsroom",
           "https://www.seismic.com/newsroom/press-releases",
-          "https://www.seismic.com/press",
+          "https://www.seismic.com/press/",
           "https://www.seismic.com/press-releases",
           "https://www.seismic.com/insights",
           "https://www.seismic.com/blog",
           "https://www.seismic.com/resources",
           "https://www.seismic.com/research",
-          "https://www.seismic.com/knowledge-center/",
+          "https://www.seismic.com/knowledge-center",
           "https://www.seismic.com/media"
         ],
         "sample_news": []
