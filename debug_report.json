@@ -1,0 +1,188 @@
+{
+  "company": "Seismic",
+  "website": "https://www.seismic.com/",
+  "page": "https://www.seismic.com/uk/newsroom/",
+  "cwd": "C:\\Users\\Sam.Pynadath\\Documents\\AI-Platformtest",
+  "python": "C:\\Users\\Sam.Pynadath\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+  "homepage": {
+    "requested_url": "https://www.seismic.com/",
+    "ok": false,
+    "status": null,
+    "final_url": "",
+    "content_type": "",
+    "error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.seismic.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))\"))"
+  },
+  "direct_news_page": {
+    "requested_url": "https://www.seismic.com/uk/newsroom/",
+    "ok": false,
+    "status": null,
+    "final_url": "",
+    "content_type": "",
+    "error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.seismic.com', port=443): Max retries exceeded with url: /uk/newsroom/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))\"))",
+    "html_bytes": 0,
+    "dynamic_markers": [],
+    "visible_text_preview": ""
+  },
+  "raw_html_article_links": [],
+  "sitemap": {
+    "maps_checked": [
+      "https://www.seismic.com/sitemap.xml",
+      "https://www.seismic.com/sitemap-index.xml",
+      "https://www.seismic.com/sitemap_index.xml",
+      "https://www.seismic.com/wp-sitemap.xml"
+    ],
+    "all_urls_count": 0,
+    "article_like_count": 0,
+    "article_like_urls": []
+  },
+  "jina": {
+    "ok": false,
+    "status": null,
+    "bytes": 0,
+    "error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.seismic.com/uk/newsroom/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))\"))",
+    "links": [],
+    "same_domain_content_links": []
+  },
+  "playwright": {
+    "package_installed": true,
+    "browser_started": true,
+    "engine": "Playwright Chromium",
+    "error": "",
+    "html_bytes": 915779,
+    "visible_text_bytes": 3890,
+    "same_domain_content_links": [
+      {
+        "title": "Professional Services",
+        "url": "https://www.seismic.com/uk/resource/professional-services/"
+      },
+      {
+        "title": "Blog",
+        "url": "https://www.seismic.com/uk/blog/"
+      },
+      {
+        "title": "Newsroom",
+        "url": "https://www.seismic.com/uk/newsroom/"
+      },
+      {
+        "title": "Resource Center",
+        "url": "https://www.seismic.com/uk/resources/"
+      },
+      {
+        "title": "Analyst 3rd Party Reports",
+        "url": "https://www.seismic.com/uk/resources/analyst-third-party-reports/"
+      },
+      {
+        "title": "Demo Videos",
+        "url": "https://www.seismic.com/uk/resource/demo-videos/"
+      },
+      {
+        "title": "Product Tours",
+        "url": "https://www.seismic.com/uk/resource/product-tour/"
+      },
+      {
+        "title": "Changemaker Quiz (Opens in a new tab)",
+        "url": "https://www.seismic.com/uk/resources/change-maker-quiz/"
+      },
+      {
+        "title": "Events and Webinars",
+        "url": "https://www.seismic.com/uk/resource/events-and-webinars/"
+      },
+      {
+        "title": "Enablement Consulting",
+        "url": "https://www.seismic.com/uk/resource/enablement-consulting/"
+      },
+      {
+        "title": "Global Services",
+        "url": "https://www.seismic.com/uk/resources/seismic-global-services/"
+      },
+      {
+        "title": "Seismic Expands Aura Agents Across GTM Workflows in 2026",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/seismic-aura-agents-across-gtm-workflows"
+      },
+      {
+        "title": "54% of GTM Leaders Say Speed to Revenue Is a Top Priority as Businesses Push for Growth, Seismic Research Finds",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/speed-to-revenue-gtm-priority"
+      },
+      {
+        "title": "Seismic helps go-to-market teams close execution gaps in Winter 2026 Product Release",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/seismic-winter-2026-product-release"
+      },
+      {
+        "title": "Seismic announces intent to merge with Highspot",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/seismic-highspot-merger-intent"
+      },
+      {
+        "title": "Royal London Asset Management partners with Seismic to transform how client relationships deepen, grow and scale",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/royal-london-asset-management-seismic-partnership"
+      },
+      {
+        "title": "Britain\u2019s rich are moving their money abroad as UK wealth managers fail to modernise",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/wealth-managers-digital-gap-2025"
+      },
+      {
+        "title": "Seismic's Fall 2025 Product Release introduces new Aura AI Agents",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/seismic-launches-aura-ai-agents"
+      },
+      {
+        "title": "New Study Shows Revenue Enablement Execution Lags, Despite Clear Strategic Priorities",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/hbr-pulse-report"
+      },
+      {
+        "title": "Seismic charts the future of AI-powered enablement at Shift 2025",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/seismic-shift-ai-vision-san-diego-2025"
+      },
+      {
+        "title": "Seismic introduces Aura AI for Salesforce Agentforce to help revenue teams win with AI",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/salesforce-agentforce-aura"
+      },
+      {
+        "title": "View more press releases",
+        "url": "https://www.seismic.com/uk/newsroom/press-releases/"
+      },
+      {
+        "title": "Resources",
+        "url": "https://www.seismic.com/uk/resource/"
+      }
+    ]
+  },
+  "portfolio_intel": {
+    "import_ok": true,
+    "module_file": "C:\\Users\\Sam.Pynadath\\Documents\\AI-Platformtest\\portfolio_intel.py",
+    "functions": {
+      "discover_official_source_pages": [
+        "https://www.seismic.com/uk/newsroom/",
+        "https://www.seismic.com/news",
+        "https://www.seismic.com/newsroom",
+        "https://www.seismic.com/newsroom/press-releases",
+        "https://www.seismic.com/press",
+        "https://www.seismic.com/press-releases",
+        "https://www.seismic.com/insights",
+        "https://www.seismic.com/blog",
+        "https://www.seismic.com/resources",
+        "https://www.seismic.com/research",
+        "https://www.seismic.com/knowledge-center",
+        "https://www.seismic.com/media"
+      ],
+      "discover_company_official_news": {
+        "news_count": 0,
+        "pages_count": 12,
+        "pages": [
+          "https://www.seismic.com/uk/newsroom/",
+          "https://www.seismic.com/news",
+          "https://www.seismic.com/newsroom",
+          "https://www.seismic.com/newsroom/press-releases",
+          "https://www.seismic.com/press",
+          "https://www.seismic.com/press-releases",
+          "https://www.seismic.com/insights",
+          "https://www.seismic.com/blog",
+          "https://www.seismic.com/resources",
+          "https://www.seismic.com/research",
+          "https://www.seismic.com/knowledge-center/",
+          "https://www.seismic.com/media"
+        ],
+        "sample_news": []
+      }
+    },
+    "errors": {}
+  }
+}
