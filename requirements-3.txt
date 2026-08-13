@@ -1,0 +1,10 @@
+streamlit>=1.43,<2
+pandas>=2.0,<3
+plotly>=5.20,<7
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+openpyxl>=3.1,<4
+truststore>=0.10,<1
+playwright>=1.55,<2
+# Optional local AI analyst:
+# ollama>=0.4,<1
