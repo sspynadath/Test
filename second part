@@ -1,0 +1,248 @@
+## PE Use Cases (Inferred)
+
+- Standardized AI governance framework across portfolio companies
+- Portfolio-wide AI risk management controls
+- Responsible AI assessments during due diligence
+- AI compliance monitoring across regulated investments
+
+## Proof Points
+
+- Trust AI implementation
+- PII leakage detection
+- GPT-4o evaluation framework
+- Hallucination and prompt-injection controls
+
+## Source Slides
+
+14-15
+
+## Confidence
+
+High
+
+---
+
+# Capability: AI Adoption & Governance
+
+## Category
+
+AI Adoption & Governance
+
+## Description
+
+Supports AI organizational transformation through AI literacy programs, governance frameworks, change management activities, executive education, and AI Center of Excellence development.
+
+## Business Problems Addressed
+
+- Lack of organizational AI readiness
+- AI skills shortages
+- Resistance to AI adoption
+- Inconsistent AI governance
+- Difficulty scaling AI programs
+
+## Technologies / Concepts
+
+- AI Center of Excellence (CoE)
+- AI Literacy Programs
+- Executive Bootcamps
+- Change Management
+- AI Governance Frameworks
+- Adoption Frameworks
+
+## External Signals (Inferred)
+
+- Enterprise AI training initiatives
+- AI workforce enablement programs
+- AI Center of Excellence creation
+- AI transformation office establishment
+
+## Hiring Keywords (Inferred)
+
+- AI Enablement Lead
+- AI Transformation Manager
+- Change Management Lead
+- AI Program Director
+- Learning & Development AI
+
+## News Trigger Keywords (Inferred)
+
+- Workforce AI training
+- Enterprise upskilling initiative
+- Responsible AI rollout
+- AI operating model implementation
+
+## Buyer Personas (Inferred)
+
+- CIO
+- CHRO
+- Head of Transformation
+- Chief Digital Officer
+
+## PE Use Cases (Inferred)
+
+- Portfolio-wide AI maturity assessments
+- AI capability development across portfolio companies
+- Establishing common governance practices
+- Executive AI education programs
+
+## Proof Points
+
+Direct capability and service offering described within Coforge AI practice offering framework.
+
+## Source Slides
+
+16
+
+## Confidence
+
+High
+
+---
+
+# Capability Hierarchy
+
+## AI Strategy & Transformation
+
+- Outcome-led AI Roadmap
+- AI Adoption & Governance
+
+---
+
+## Enterprise AI Foundation
+
+- AI Foundation
+- Model Lifecycle as a Service (MLaaS)
+- Inference Acceleration
+
+---
+
+## Responsible AI
+
+- Responsible AI
+
+### Supporting Areas
+
+- AI Governance
+- Explainability
+- Bias Detection
+- Compliance Management
+- Security Monitoring
+- Privacy Controls
+
+---
+
+## Agentic AI
+
+- Agentic Frameworks & Solutions
+
+### Agent Examples Mentioned
+
+- Recruitment Agents
+- Knowledge Assistants
+- Research Agents
+- Sales Agents
+- Enterprise Productivity Agents
+
+---
+
+## Industry & Function Focused AI Solutions
+
+### Banking & Financial Services
+
+- Fraud Detection
+- AML Optimization
+- Customer Risk Profiling
+- Collections Analytics
+- Financial Narrative Generation
+
+### Insurance
+
+- Submission Intake Automation
+- Loss Run Processing
+- Claims Automation
+- Fraudulent Claims Detection
+- Underwriting Intelligence
+
+### Travel & Transportation
+
+- Cargo Delay Prediction
+- AWB Processing
+- Turnaround Optimization
+- Booking Fraud Detection
+
+### Customer Experience
+
+- Customer Segmentation
+- Loyalty Optimization
+- Contact Center Analytics
+- Agent Assist Solutions
+
+---
+
+## Cognitive AI
+
+### Intelligent Document Processing
+
+- OCR-based document extraction
+- Document classification
+- Data extraction workflows
+
+### Speech Analytics
+
+- Multilingual speech processing
+- Contact-center conversation analysis
+
+### Knowledge Graph AI
+
+- Relationship intelligence
+- Knowledge discovery
+- Semantic search
+
+### Copilot Solutions
+
+- Enterprise Copilots
+- Productivity Assistants
+- SaaS Augmentation Solutions
+
+---
+
+## Physical AI
+
+### Computer Vision & Video Analytics
+
+- Visual monitoring
+- Operational intelligence
+- Cargo processing
+- Property inspection
+
+---
+
+## AI Platforms & Accelerators
+
+### Coforge Quasar Marketplace
+
+Includes reusable AI accelerators and offerings.
+
+### Coforge AI Studio
+
+Environment supporting AI development and experimentation.
+
+### AgentSphere
+
+Agentic AI ecosystem and orchestration capability.
+
+### Coforge GenAI Central
+
+Centralized GenAI platform and reusable framework assets.
+
+### Trust AI
+
+Responsible AI governance, testing, monitoring and evaluation framework.
+
+### LLM Router
+
+Model orchestration and routing capability.
+
+---
+
+# End of Knowledge Base
