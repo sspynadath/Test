@@ -1,0 +1,504 @@
+# Coforge Capability Knowledge Base
+
+## Purpose
+
+This knowledge base is derived from the **AI Overview – Coforge AI Practice Offerings 2025** deck and is designed for use within the Private Equity Account Intelligence Platform.
+
+The objective is to map external account signals such as:
+
+- Portfolio company activity
+- Acquisitions and exits
+- Leadership changes
+- Hiring activity
+- Technology initiatives
+- AI, Data, Cloud and Automation investments
+- Strategic announcements
+- Transformation programs
+
+to relevant Coforge capabilities and offerings.
+
+---
+
+# Capability: Outcome-led AI Roadmap
+
+## Category
+AI Strategy & Transformation
+
+## Description
+Provides AI strategy development, governance, operating model definition, use-case prioritization, value realization frameworks, pilot execution, and enterprise AI roadmaps.
+
+## Business Problems Addressed
+
+- Lack of AI strategy
+- Poor AI prioritization
+- AI governance gaps
+- Difficulty measuring AI ROI
+- Fragmented AI initiatives
+
+## Technologies / Concepts
+
+- AI Governance Framework
+- AI Operating Model
+- Use Case Prioritization
+- Value Realization Framework
+
+## External Signals (Inferred)
+
+- Enterprise AI transformation program
+- AI strategy announcements
+- AI Center of Excellence creation
+- Digital transformation initiative
+
+## Hiring Keywords (Inferred)
+
+- AI Strategy
+- AI Program Manager
+- AI Governance Lead
+- Head of AI Transformation
+
+## News Trigger Keywords (Inferred)
+
+- AI roadmap
+- Enterprise AI initiative
+- AI transformation
+- Digital reinvention
+
+## Buyer Personas (Inferred)
+
+- CIO
+- Chief Digital Officer
+- Head of Transformation
+- CTO
+
+## PE Use Cases (Inferred)
+
+- Portfolio-wide AI maturity assessment
+- Portfolio AI governance framework
+- AI opportunity identification across investments
+
+## Proof Points
+
+- Assurant: 95% automation
+- Assurant: 80% efficiency improvement
+- Voya: legal processing reduced from 3.5 hours to approximately 2 minutes
+- ARM: AI CoE and governance setup
+
+## Source Slides
+
+7
+
+## Confidence
+
+High
+
+---
+
+# Capability: AI Foundation
+
+## Category
+Enterprise AI Foundation
+
+## Description
+
+Establishes foundational AI architecture, infrastructure, cloud platforms, data environments, MLOps, LLMOps, tooling, model deployment frameworks, and responsible AI foundations.
+
+## Business Problems Addressed
+
+- Lack of enterprise AI infrastructure
+- Data readiness challenges
+- AI deployment difficulties
+- Platform fragmentation
+
+## Technologies / Concepts
+
+- Cloud Data Platforms
+- Vector Databases
+- Graph Databases
+- Feature Stores
+- MLOps
+- LLMOps
+- RAG
+- Prompt Engineering
+- Containerization
+
+## External Signals (Inferred)
+
+- Cloud modernization
+- AI platform build-out
+- Enterprise GenAI initiatives
+- Data platform transformation
+
+## Hiring Keywords (Inferred)
+
+- AI Engineer
+- Machine Learning Engineer
+- MLOps Engineer
+- Data Engineer
+- Cloud Architect
+
+## News Trigger Keywords (Inferred)
+
+- Cloud migration
+- AI platform launch
+- Data modernization
+- Enterprise data transformation
+
+## Buyer Personas (Inferred)
+
+- CIO
+- CTO
+- Chief Data Officer
+
+## PE Use Cases (Inferred)
+
+- Shared AI platform across portfolio companies
+- Foundation for portfolio-wide AI adoption
+
+## Proof Points
+
+- Travel technology client GenAI foundation on GCP
+- Microsoft AI and Copilot roadmap engagement
+
+## Source Slides
+
+8
+
+## Confidence
+
+High
+
+---
+
+# Capability: Industry & Function Focused AI Solutions
+
+## Category
+
+Industry AI Solutions
+
+## Description
+
+Industry-specific AI offerings addressing business functions across banking, insurance, travel, customer operations, fraud management, underwriting, analytics and decision intelligence.
+
+## Business Problems Addressed
+
+- Fraud detection challenges
+- Claims processing inefficiencies
+- Underwriting bottlenecks
+- Customer insight limitations
+- Operational inefficiencies
+
+## Technologies / Concepts
+
+- Document AI
+- Graph AI
+- Speech AI
+- Video AI
+- Machine Learning
+- LLMOps
+
+## External Signals (Inferred)
+
+- Industry-specific AI hiring
+- Claims modernization
+- Fraud modernization
+- Customer analytics investment
+
+## Hiring Keywords (Inferred)
+
+- Fraud Analytics
+- Underwriting Analytics
+- Data Science
+- Customer Analytics
+
+## News Trigger Keywords (Inferred)
+
+- Underwriting transformation
+- Fraud prevention initiative
+- Customer experience transformation
+- Digital claims processing
+
+## Buyer Personas (Inferred)
+
+- COO
+- Business Unit Head
+- Chief Analytics Officer
+
+## PE Use Cases (Inferred)
+
+- Deploy repeatable AI capabilities across sector-focused portfolio companies
+
+## Proof Points
+
+- SOMPO: 96% automation
+- SOMPO: 100% accuracy
+- Cathay cargo automation
+- Aurenity: 80% faster processing
+
+## Source Slides
+
+10
+
+## Confidence
+
+High
+
+---
+
+# Capability: Agentic Frameworks & Solutions
+
+## Category
+
+Agentic AI
+
+## Description
+
+Provides agentic AI frameworks, architectures, governance controls, deployment methodology and autonomous workflow solutions using multi-agent ecosystems.
+
+## Business Problems Addressed
+
+- Manual knowledge work
+- Hiring inefficiencies
+- Research process bottlenecks
+- Enterprise search limitations
+
+## Technologies / Concepts
+
+- Agentic Mesh Architecture
+- Multi-Agent Systems
+- RAG
+- Agent Governance Controls
+
+## External Signals (Inferred)
+
+- AI agents initiative
+- Workflow automation strategy
+- Knowledge automation program
+
+## Hiring Keywords (Inferred)
+
+- AI Agent Engineer
+- RAG Engineer
+- Agentic AI Developer
+
+## News Trigger Keywords (Inferred)
+
+- AI workforce productivity initiative
+- Autonomous operations program
+- Enterprise AI agents
+
+## Buyer Personas (Inferred)
+
+- CTO
+- COO
+- Head of AI
+
+## PE Use Cases (Inferred)
+
+- AI-powered portfolio operations support
+- Due diligence assistants
+- Recruiting assistants
+- Research automation
+
+## Proof Points
+
+- BMJ: GTM cycle reduced by 25%
+- SEI: Recruitment cycle reduced by 30%
+- Beacon: Knowledge search across 33,000 products
+
+## Source Slides
+
+11
+
+## Confidence
+
+High
+
+---
+
+# Capability: Model Lifecycle as a Service (MLaaS)
+
+## Category
+
+AI Operations & Managed AI Services
+
+## Description
+
+Provides end-to-end machine learning lifecycle management covering model design, deployment, monitoring, retraining, governance and operational management.
+
+## Business Problems Addressed
+
+- Model drift
+- Slow deployment cycles
+- AI operational complexity
+- Governance challenges
+
+## Technologies / Concepts
+
+- MLOps
+- Feature Engineering
+- Model Registry
+- Drift Monitoring
+- Container Deployment
+- CI/CD for Machine Learning
+
+## External Signals (Inferred)
+
+- Scaling ML programs
+- MLOps investments
+- AI operating model expansion
+
+## Hiring Keywords (Inferred)
+
+- MLOps Engineer
+- ML Platform Engineer
+- Data Scientist
+
+## News Trigger Keywords (Inferred)
+
+- Production AI scaling
+- MLOps transformation
+
+## Buyer Personas (Inferred)
+
+- Chief Data Officer
+- Head of Data Science
+
+## PE Use Cases (Inferred)
+
+- Shared model lifecycle management across portfolio firms
+
+## Proof Points
+
+- FlyDubai: 25% cycle reduction
+- NNIP: Sub-second response times
+- NNIP: ~99% matching accuracy
+- SBI: 72% false-positive reduction
+
+## Source Slides
+
+12
+
+## Confidence
+
+High
+
+---
+
+# Capability: Inference Acceleration
+
+## Category
+
+AI Infrastructure Optimization
+
+## Description
+
+Optimizes AI model performance and operating costs using acceleration frameworks, model compression techniques, architecture optimization and deployment optimization.
+
+## Business Problems Addressed
+
+- High inference costs
+- Slow model performance
+- GPU inefficiencies
+- Scaling challenges
+
+## Technologies / Concepts
+
+- Quantization
+- Pruning
+- Distillation
+- Multi-GPU Architecture
+- Edge AI
+- Serverless Inference
+
+## External Signals (Inferred)
+
+- GPU expansion
+- AI infrastructure modernization
+- AI cost optimization initiatives
+
+## Hiring Keywords (Inferred)
+
+- ML Systems Engineer
+- AI Infrastructure Engineer
+- GPU Engineer
+
+## News Trigger Keywords (Inferred)
+
+- AI scaling initiative
+- Infrastructure optimization program
+
+## Buyer Personas (Inferred)
+
+- CTO
+- Head of Infrastructure
+
+## PE Use Cases (Inferred)
+
+- Reduce AI operating costs across portfolio companies
+
+## Proof Points
+
+Capability described in offering overview.
+
+## Source Slides
+
+13
+
+## Confidence
+
+High
+
+---
+
+# Capability: Responsible AI
+
+## Category
+
+Responsible AI
+
+## Description
+
+Provides governance, monitoring, compliance, security, transparency, explainability and ethical AI frameworks.
+
+## Business Problems Addressed
+
+- Regulatory risk
+- AI bias
+- Explainability concerns
+- Data privacy risk
+- Security vulnerabilities
+
+## Technologies / Concepts
+
+- AI Governance
+- Bias Detection
+- Explainability
+- Security Controls
+- GDPR
+- Responsible AI Monitoring
+
+## External Signals (Inferred)
+
+- AI governance initiatives
+- Regulatory compliance programs
+- AI risk management investments
+
+## Hiring Keywords (Inferred)
+
+- AI Governance Lead
+- AI Risk Manager
+- Model Risk Analyst
+
+## News Trigger Keywords (Inferred)
+
+- Responsible AI initiative
+- AI regulation readiness
+- Governance framework deployment
+
+## Buyer Personas (Inferred)
+
+- Chief Risk Officer
+- Chief Compliance Officer
+- CIO
+
+## PE Use
